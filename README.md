@@ -68,7 +68,7 @@ indexer-api/
 
 ## Prerequisites
 
-- Runtime: Node.js 20+ (or Rust toolchain — see [PLAN.md](./PLAN.md) for the pending language decision; update this section once finalized)
+- Runtime: Node.js 20+ (language decision finalized: **TypeScript on Node.js** — see [PLAN.md](./PLAN.md) decision table)
 - Postgres 15+
 - Access to a Soroban RPC endpoint (testnet or mainnet)
 
