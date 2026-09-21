@@ -18,6 +18,6 @@
     "sourceMap": true,
     "types": ["node"]
   },
-  "include": ["src/**/*.ts", "tests/**/*.ts", "migrations/**/*.ts"],
+  "include": ["src/**/*.ts", "tests/**/*.ts", "migrations/**/*.ts", "vitest.config.ts"],
   "exclude": ["node_modules", "dist"]
 }
